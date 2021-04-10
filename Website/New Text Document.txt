@@ -1,0 +1,41 @@
+
+https://moz.com/products
+
+
+
+
+font-family: 'Krona One', sans-serif;
+
+
+ <div class="sub_recorce">
+                                <a class="sub_A" href="#">SEO Learning Center </a>
+                                <p> Broaden your SEO knowledge with resources for all skill levels.</p>
+
+                                <a  class="sub_A" href="#">The Beginner's Guide to SEO</a>
+                                <p>If you're brand new to SEO, start here</p>
+
+                                <a  class="sub_A" href="#">SEO Q&A</a>
+                                <p>Get answers from the Moz Community</p>
+
+                                <a  class="sub_A" href="#">Free download more</a>
+                                <p>Quick access to whitepapers, reports, guides, webinars, and case studies</p>
+
+                                <a  class="sub_A" href="#">Help Hub</a>
+                                <p>Learn how to use Moz products</p>
+
+                                <a  class="sub_A" href="#">Commnity & Events</a>
+                                <p>Connect with over 600k online marketers</p>
+
+                                <a  class="sub_A" href="#">SEO Training</a>
+                                    <p>Instructor-led classes and seminars</p>
+                            </div>
+
+
+
+
+website ====
+
+
+
+
+font-family: 'Roboto', sans-serif;
